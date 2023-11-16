@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="msg_bienvenida">Welcome</string>
+    <string name="nom_boton">Enter</string>
+    <string name="descripcion_img1">Start Image</string>
+</resources>
